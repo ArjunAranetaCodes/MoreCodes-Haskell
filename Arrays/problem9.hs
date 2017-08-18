@@ -1,6 +1,6 @@
 
 main = do
- let arrNumbers = [1,2,3]
- putStrLn ("Sum is " ++ show (sum arrNumbers))
+ let lstNumbers = [1,2,3]
+ putStrLn ("Sum is " ++ show (sum lstNumbers))
 
 

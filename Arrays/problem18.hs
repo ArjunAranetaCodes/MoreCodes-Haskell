@@ -2,9 +2,9 @@
 import Data.List
 
 main = do
- let array1 = [1,3,2,4]
- let array2 = reverse (sort array1)
+ let list1 = [1,3,2,4]
+ let list2 = reverse (sort list1)
 
- putStrLn (show array2)
+ putStrLn (show list2)
 
 

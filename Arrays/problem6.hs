@@ -1,7 +1,7 @@
 
 main = do
- let arrNumbers = [1,2,3]
- let contains = 2 `elem` arrNumbers
+ let lstNumbers = [1,2,3]
+ let contains = 2 `elem` lstNumbers
 
  if contains
   then putStrLn "Contains 2"

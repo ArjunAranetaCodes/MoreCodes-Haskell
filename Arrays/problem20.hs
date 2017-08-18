@@ -2,7 +2,7 @@
 import Data.List
 
 findlow::[Int]->(Int)
-findlow arrNumbers = lowest arrNumbers (arrNumbers!!0) (arrNumbers!!0)
+findlow lstNumbers = lowest lstNumbers (lstNumbers!!0) (lstNumbers!!0)
 
 lowest::[Int]->Int->Int->(Int)
 lowest [] num closest = (closest)

@@ -1,6 +1,6 @@
 
 countNum::[Int]->(Int)
-countNum arrNumbers = countOccur arrNumbers 0
+countNum lstNumbers = countOccur lstNumbers 0
 
 countOccur::[Int]->Int->(Int)
 countOccur [] num = (num)

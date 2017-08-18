@@ -2,8 +2,8 @@
 import Control.Monad
 
 main = do
- let arrNumbers = [1,2,3]
- forM_ arrNumbers $ \i -> do
+ let lstNumbers = [1,2,3]
+ forM_ lstNumbers $ \i -> do
   putStrLn (show i)
 
 

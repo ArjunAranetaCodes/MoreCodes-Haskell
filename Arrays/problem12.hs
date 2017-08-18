@@ -1,9 +1,9 @@
 
 main = do
- let array1 = [1,2,3]
- let array2 = [1,2,3]
+ let list1 = [1,2,3]
+ let list2 = [1,2,3]
 
- if array1 == array2
+ if list1 == list2
   then putStrLn "Equal Arrays"
   else putStrLn "Not Equal"
 

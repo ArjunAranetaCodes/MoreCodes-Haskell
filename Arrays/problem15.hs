@@ -1,8 +1,8 @@
 
 main = do
- let array1 = [1,2,3]
- let array2 = array1
+ let list1 = [1,2,3]
+ let list2 = list1
 
- putStrLn (show array2)
+ putStrLn (show list2)
 
 

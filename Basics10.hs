@@ -1,9 +1,9 @@
---Array Basics
+--List Basics
 
 main = do
- let array = [1,2,3]
- putStrLn(show (array!!0))
- putStrLn(show (array!!1))
- putStrLn(show (array!!2))
+ let lst = [1,2,3]
+ putStrLn(show (lst!!0))
+ putStrLn(show (lst!!1))
+ putStrLn(show (lst!!2))
 
 

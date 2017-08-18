@@ -1,8 +1,8 @@
 
 main = do
- let array1 = [1,2,3]
- let array2 = [1,2,3]
- let newarray = array1 ++ array2
+ let list1 = [1,2,3]
+ let list2 = [1,2,3]
+ let newarray = list1 ++ list2
 
  putStrLn (show newarray)
 

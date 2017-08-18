@@ -2,8 +2,8 @@
 import Data.List
 
 main = do
- let arrNumbers = [1,2,3]
+ let lstNumbers = [1,2,3]
 
- putStrLn ("Array Length: " ++ (show (length arrNumbers)))
+ putStrLn ("Array Length: " ++ (show (length lstNumbers)))
 
 

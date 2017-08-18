@@ -4,7 +4,7 @@ main = do
  let list2 = [1,2,3]
 
  if list1 == list2
-  then putStrLn "Equal Arrays"
+  then putStrLn "Equal Lists"
   else putStrLn "Not Equal"
 
 

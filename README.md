@@ -73,7 +73,7 @@ Computer Programming Problems and Solutions with the Haskell Language
 20. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Haskell/blob/master/Loops/problem20.hs" target="_blank">(Recursion) Write a program that outputs the sum of numbers from 1 to n.</a>
 
 - - - -
-### [Haskell Array Programming Problems](Arrays/) <- Click to go to Array Problems
+### [Haskell Lists Programming Problems](../Lists/) <- Click to go to Array Problems
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Haskell/blob/master/Arrays/problem1.hs" target="_blank">Write a program that outputs the length of array.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Haskell/blob/master/Arrays/problem2.hs" target="_blank">Write a program that gets the index of an element in an array.</a>

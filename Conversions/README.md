@@ -11,7 +11,7 @@ Join Us on Youtube! <br/>
 #
 
 - - - - 
-###  [Haskell Conversion Programming Problems](Conversions/) <- Click to go to Conversion Problems
+###  [Haskell Conversion Programming Problems](../Conversions/) <- Click to go to Conversion Problems
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Haskell/blob/master/Conversions/problem1.hs" target="_blank">Write a program that converts a number to string.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Haskell/blob/master/Conversions/problem2.hs" target="_blank">Write a program that converts a string to integer.</a>
